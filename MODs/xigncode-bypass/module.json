@@ -1,0 +1,7 @@
+{
+    "disableAutoUpdate": true,
+    "options": {
+        "loadOn": "startup"
+    },
+    "servers": ["https://raw.githubusercontent.com/caali-hackerman/xigncode-bypass/master/"]
+}

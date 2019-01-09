@@ -1,0 +1,32 @@
+[
+	{
+		"name": "蛇岛 - 莎夏拉克",
+		"huntingZoneId": [10, 6553610, 13107210],
+		"templateId": 99,
+		"zone": 7004},
+	{
+		"name": "爆炎 - 暴风喀纳什",
+		"huntingZoneId": [4, 6553604, 13107204],
+		"templateId": 5011,
+		"zone": 7004},
+	{
+		"name": "古代 - 溃斯格连",
+		"huntingZoneId": [38, 6553638, 13107238],
+		"templateId": 35,
+		"zone": 7014},
+	{
+		"name": "孵化 - 卡恰斯坦",
+		"huntingZoneId": [57, 3932257, 13107257],
+		"templateId": 33,
+		"zone": 7021},
+	{
+		"name": "蜘蛛 - 拉其奴亚",
+		"huntingZoneId": [51, 6553651, 13107251],
+		"templateId": 7011,
+		"zone": 7022},
+	{
+		"name": "蜥蜴 - 史内格斗司",
+		"huntingZoneId": [52, 6553652, 13107252],
+		"templateId": 9050,
+		"zone": 7022}
+]

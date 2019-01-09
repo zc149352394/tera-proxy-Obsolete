@@ -1,0 +1,12 @@
+{
+	"enabled": true,
+	"enableParty": true,
+	"instance": [
+		102, 103, 110, 111, 112, 116, 117, 118, 119, "Battlegrounds",               "战场",
+		9710, "Broken Prison -- certain mechanic causes client to crash",           "破碎的监狱 -- 某些机械师导致客户崩溃",
+		9720, "Antaros Abyss -- certain mechanic causes client to crash",           "Antaros深渊 -- 某些机械师导致客户崩溃",
+		9739, "Rebel is Hideout -- certain mechanic causes client to crash",        "叛军的藏身之地 -- 某些机械师导致客户崩溃",
+		9920, "Antaros Abyss (hard) -- certain mechanic causes client to crash",    "Antaros深渊(上) -- 某些机械师导致客户崩溃",
+		9939, "Rebel is Hideout (hard) -- certain mechanic causes client to crash", "叛军的藏身之地(上) -- 某些机械师导致客户崩溃"
+	]
+}

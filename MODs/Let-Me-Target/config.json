@@ -1,0 +1,18 @@
+{
+	"enabled": true,
+
+	"delay_lockon": {
+		"on": true,
+		"min": 50,
+		"max": 100
+	},
+
+	"cleanse": {
+		"smartC": true
+	},
+
+	"dps": {
+		"auto": true,
+		"delay": 300 
+	}
+}

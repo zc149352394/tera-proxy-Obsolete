@@ -1,0 +1,9 @@
+{
+	"enabled": true,
+	"alerted": true,
+	"messager": true,
+	"marker": true,
+	"itemId" : 98260,
+	"discordWebhookUrl": "",
+	"mention": "@World-Boss"
+}

@@ -1,0 +1,4 @@
+{
+    "servers": ["https://raw.githubusercontent.com/beng-mods/instant-soulbind/master/"],
+	"disableAutoUpdate": true
+}
